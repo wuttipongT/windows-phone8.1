@@ -1,0 +1,56 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="WindowsPhoneApplication2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="MY APPLICATION" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="Lap 6" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox Height="62" HorizontalAlignment="Left" Margin="139,69,0,0" Name="inputText" Text="" VerticalAlignment="Top" Width="291" TextChanged="textBox1_TextChanged" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="42,85,0,0" Name="textBlock1" Text="input" VerticalAlignment="Top" />
+            <Button Content="Search" Height="63" HorizontalAlignment="Left" Margin="223,234,0,0" Name="button1" VerticalAlignment="Top" Width="207" Click="button1_Click" FontSize="22" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="42,191,0,0" Name="textBlock2" Text="Average :" VerticalAlignment="Top" Width="97" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="154,22,0,0" Name="topic" VerticalAlignment="Top" Width="268" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="45,24,0,0" Name="textBlock4" Text="Patern :" VerticalAlignment="Top" Width="79" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="45,140,0,0" Name="textBlock5" Text="Max" VerticalAlignment="Top" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="223,140,0,0" Name="textBlock6" Text="Min" VerticalAlignment="Top" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="104,140,0,0" Name="max" VerticalAlignment="Top" Width="101" />
+            <TextBlock Height="30" HorizontalAlignment="Left" Margin="139,191,0,0" Name="average" VerticalAlignment="Top" Width="291" />
+        </Grid>
+    </Grid>
+ 
+    <!--Sample code showing usage of ApplicationBar-->
+    <!--<phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button1.png" Text="Button 1"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar_button2.png" Text="Button 2"/>
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="MenuItem 1"/>
+                <shell:ApplicationBarMenuItem Text="MenuItem 2"/>
+            </shell:ApplicationBar.MenuItems>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>-->
+
+</phone:PhoneApplicationPage>

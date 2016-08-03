@@ -1,0 +1,36 @@
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\ApplicationIcon.png
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\Background.png
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.dll
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.pdb
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\AppManifest.xaml
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.xap
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\App.g.i.cs
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\MainPage.g.i.cs
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.g.resources
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.dll
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.pdb
+D:\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\XapCacheFile.xml
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\ApplicationIcon.png
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\Background.png
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.dll
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.pdb
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\AppManifest.xaml
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.xap
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\App.g.i.cs
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\MainPage.g.i.cs
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.g.resources
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.dll
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.pdb
+E:\#3-2 Web Programming\WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\XapCacheFile.xml
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\ApplicationIcon.png
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\Background.png
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.dll
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\Bin\Debug\WindowsPhoneApplication1.pdb
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\App.g.i.cs
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\MainPage.g.i.cs
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.g.resources
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.dll
+D:\# WindowsPhone\WindowsPhoneApplication1\WindowsPhoneApplication1\obj\Debug\WindowsPhoneApplication1.pdb

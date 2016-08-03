@@ -1,0 +1,13 @@
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\ApplicationIcon.png
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\Background.png
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\DemoHello.dll
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\DemoHello.pdb
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\AppManifest.xaml
+D:\WindowsPhone\Demo\DemoHello\Bin\Debug\DemoHello.xap
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\App.g.i.cs
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\MainPage.g.i.cs
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\DemoHello.g.resources
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\DemoHello.dll
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\DemoHello.pdb
+D:\WindowsPhone\Demo\DemoHello\obj\Debug\XapCacheFile.xml

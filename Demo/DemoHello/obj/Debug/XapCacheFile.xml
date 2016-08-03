@@ -1,0 +1,8 @@
+﻿<xapCache source="D:\WindowsPhone\Demo\DemoHello\Bin\Debug\DemoHello.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="11/14/2011 1:59:29 PM">
+  <file source="D:\WindowsPhone\Demo\DemoHello\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/14/2011 1:14:32 PM" />
+  <file source="D:\WindowsPhone\Demo\DemoHello\obj\Debug\DemoHello.dll" archivePath="DemoHello.dll" lastWriteTime="11/14/2011 1:59:28 PM" />
+  <file source="D:\WindowsPhone\Demo\DemoHello\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="11/14/2011 1:14:33 PM" />
+  <file source="D:\WindowsPhone\Demo\DemoHello\Background.png" archivePath="Background.png" lastWriteTime="11/14/2011 1:14:33 PM" />
+  <file source="D:\WindowsPhone\Demo\DemoHello\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="11/14/2011 1:14:33 PM" />
+  <file source="D:\WindowsPhone\Demo\DemoHello\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/14/2011 1:19:54 PM" />
+</xapCache>

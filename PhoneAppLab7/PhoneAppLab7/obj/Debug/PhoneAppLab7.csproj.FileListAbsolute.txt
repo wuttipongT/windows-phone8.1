@@ -1,0 +1,13 @@
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\ApplicationIcon.png
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\Background.png
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\PhoneAppLab7.dll
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\PhoneAppLab7.pdb
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\AppManifest.xaml
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\Bin\Debug\PhoneAppLab7.xap
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\ResolveAssemblyReference.cache
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\App.g.i.cs
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\MainPage.g.i.cs
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\PhoneAppLab7.g.resources
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\PhoneAppLab7.dll
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\PhoneAppLab7.pdb
+D:\# WindowsPhone\PhoneAppLab7\PhoneAppLab7\obj\Debug\XapCacheFile.xml

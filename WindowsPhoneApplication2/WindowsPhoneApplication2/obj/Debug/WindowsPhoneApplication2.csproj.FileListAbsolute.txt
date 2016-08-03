@@ -1,0 +1,26 @@
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\App.g.i.cs
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\MainPage.g.i.cs
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.g.resources
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\ApplicationIcon.png
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\Background.png
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.dll
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.pdb
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\AppManifest.xaml
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.xap
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.dll
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.pdb
+D:\WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\XapCacheFile.xml
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\ApplicationIcon.png
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\Background.png
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.dll
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.pdb
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\AppManifest.xaml
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\Bin\Debug\WindowsPhoneApplication2.xap
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\App.g.i.cs
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\MainPage.g.i.cs
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.g.resources
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.dll
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\WindowsPhoneApplication2.pdb
+D:\# WindowsPhone\WindowsPhoneApplication2\WindowsPhoneApplication2\obj\Debug\XapCacheFile.xml
